@@ -116,6 +116,11 @@ void displayFunc(void)
 	glRotatef(navigationRotation[0], 1.0f, 0.0f, 0.0f);
 	glRotatef(navigationRotation[1], 0.0f, 1.0f, 0.0f);
 
+	glRotatef(alpha, 0.0f, 1.0f, 0.0f);
+	glRotatef(alpha, 0.0f, 1.0f, 0.0f);
+
+	alpha += 0.1;
+
 
 	glutSolidTeapot(10.0);
 
