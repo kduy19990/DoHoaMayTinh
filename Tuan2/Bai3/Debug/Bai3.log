@@ -1,0 +1,13 @@
+﻿  BinhTraQuay.cpp
+c:\users\administrator\desktop\dohoa\tuan2\bai3\binhtraquay.cpp(137): warning C4552: '-': operator has no effect; expected operator with side-effect
+c:\users\administrator\desktop\dohoa\tuan2\bai3\binhtraquay.cpp(251): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\desktop\dohoa\tuan2\bai3\binhtraquay.cpp(253): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\dohoa\tuan2\bai3\binhtraquay.cpp(254): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\dohoa\tuan2\bai3\binhtraquay.cpp(257): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\desktop\dohoa\tuan2\bai3\binhtraquay.cpp(259): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\dohoa\tuan2\bai3\binhtraquay.cpp(260): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\dohoa\tuan2\bai3\binhtraquay.cpp(269): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\desktop\dohoa\tuan2\bai3\binhtraquay.cpp(271): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\dohoa\tuan2\bai3\binhtraquay.cpp(272): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Bai3.vcxproj -> C:\Users\Administrator\Desktop\DoHoa\Tuan2\Debug\Bai3.exe
+  Bai3.vcxproj -> C:\Users\Administrator\Desktop\DoHoa\Tuan2\Debug\Bai3.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  VeBongNay.cpp
+c:\users\administrator\desktop\dohoa\tuan2\vebongnay\vebongnay.cpp(45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\administrator\desktop\dohoa\tuan2\vebongnay\vebongnay.cpp(95): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\administrator\desktop\dohoa\tuan2\vebongnay\vebongnay.cpp(96): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\administrator\desktop\dohoa\tuan2\vebongnay\vebongnay.cpp(97): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\administrator\desktop\dohoa\tuan2\vebongnay\vebongnay.cpp(98): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+  VeBongNay.vcxproj -> C:\Users\Administrator\Desktop\DoHoa\Tuan2\Debug\VeBongNay.exe
+  VeBongNay.vcxproj -> C:\Users\Administrator\Desktop\DoHoa\Tuan2\Debug\VeBongNay.pdb (Full PDB)

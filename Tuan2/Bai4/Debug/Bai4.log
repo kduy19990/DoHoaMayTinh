@@ -1,0 +1,4 @@
+﻿  LapPhuongTuQuay.cpp
+c:\users\administrator\desktop\dohoa\tuan2\bai4\lapphuongtuquay.cpp(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai4.vcxproj -> C:\Users\Administrator\Desktop\DoHoa\Tuan2\Debug\Bai4.exe
+  Bai4.vcxproj -> C:\Users\Administrator\Desktop\DoHoa\Tuan2\Debug\Bai4.pdb (Full PDB)
