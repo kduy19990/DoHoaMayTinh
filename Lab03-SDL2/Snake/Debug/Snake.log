@@ -1,0 +1,8 @@
+﻿  Snake.cpp
+  GLOBAL.cpp
+  Game.cpp
+d:\lab03-sdl2\snake\game.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ENTITIES.cpp
+  Generating Code...
+  Snake.vcxproj -> D:\Lab03-SDL2\Debug\Snake.exe
+  Snake.vcxproj -> D:\Lab03-SDL2\Debug\Snake.pdb (Full PDB)
