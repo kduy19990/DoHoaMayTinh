@@ -1,0 +1,8 @@
+﻿  RobotDiChuyen.cpp
+c:\users\administrator\desktop\lab4\bai2\robotdichuyen.cpp(349): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai2\robotdichuyen.cpp(355): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\administrator\desktop\lab4\bai2\robotdichuyen.cpp(356): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\administrator\desktop\lab4\bai2\robotdichuyen.cpp(357): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\administrator\desktop\lab4\bai2\robotdichuyen.cpp(358): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Bai2.vcxproj -> C:\Users\Administrator\Desktop\Lab4\Debug\Bai2.exe
+  Bai2.vcxproj -> C:\Users\Administrator\Desktop\Lab4\Debug\Bai2.pdb (Full PDB)

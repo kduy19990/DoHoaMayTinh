@@ -1,0 +1,29 @@
+﻿  stdafx.cpp
+  Bai3.cpp
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(152): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(153): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(161): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(171): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(179): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(187): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(195): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(203): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(211): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(311): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(314): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(331): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(354): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(357): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(363): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(366): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(372): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(387): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(401): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(426): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(430): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(448): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(449): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(450): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\administrator\desktop\lab4\bai3\bai3.cpp(451): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  Bai3.vcxproj -> C:\Users\Administrator\Desktop\Lab4\Debug\Bai3.exe
+  Bai3.vcxproj -> C:\Users\Administrator\Desktop\Lab4\Debug\Bai3.pdb (Full PDB)
