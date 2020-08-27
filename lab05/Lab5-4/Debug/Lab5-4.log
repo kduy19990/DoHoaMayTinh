@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  SHADER.cpp
+  Lab5-4.cpp
+d:\lab05\lab5-4\lab5-4.cpp(75): warning C4305: '+=': truncation from 'double' to 'float'
+d:\lab05\lab5-4\lab5-4.cpp(76): warning C4305: '-=': truncation from 'double' to 'float'
+d:\lab05\lab5-4\lab5-4.cpp(77): warning C4305: '+=': truncation from 'double' to 'float'
+d:\lab05\lab5-4\lab5-4.cpp(78): warning C4305: '-=': truncation from 'double' to 'float'
+d:\lab05\lab5-4\lab5-4.cpp(79): warning C4305: '+=': truncation from 'double' to 'float'
+d:\lab05\lab5-4\lab5-4.cpp(80): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating Code...
+  Lab5-4.vcxproj -> D:\lab05\Debug\Lab5-4.exe
+  Lab5-4.vcxproj -> D:\lab05\Debug\Lab5-4.pdb (Full PDB)
