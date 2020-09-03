@@ -1,0 +1,8 @@
+﻿  Bai2.cpp
+d:\baithi\bai2\bai2.cpp(45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\baithi\bai2\bai2.cpp(101): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\baithi\bai2\bai2.cpp(102): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\baithi\bai2\bai2.cpp(103): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\baithi\bai2\bai2.cpp(104): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+  Bai2.vcxproj -> D:\BaiThi\Debug\Bai2.exe
+  Bai2.vcxproj -> D:\BaiThi\Debug\Bai2.pdb (Full PDB)
